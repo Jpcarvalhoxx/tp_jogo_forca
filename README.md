@@ -1,5 +1,5 @@
 ## Jogo da Forca
-Este projeto, desenvolvido para a disciplina de **Programação Orientada a Objetos (POO)** na **Universidade Federal de Ouro Preto (UFOP)**, é uma versão do clássico jogo da forca.
+Este projeto, desenvolvido para a disciplina de **Programação Orientada a Objetos (POO)** na **Universidade Federal de Ouro Preto (UFOP)** utilzando conceitos de Interface Gráfica, é uma versão do jogo da forca.
 
 ---
 
