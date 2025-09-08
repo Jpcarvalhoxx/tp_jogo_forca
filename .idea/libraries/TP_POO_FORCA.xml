@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TP_POO_FORCA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/TP_POO_FORCA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
